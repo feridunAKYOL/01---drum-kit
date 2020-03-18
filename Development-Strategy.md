@@ -9,7 +9,7 @@
 
 ## 1. Setup
 
-* Creaated boilerplate `index.html`
+* Created boilerplate `index.html`
 ---------------------------------------------------------------------
 ## 2. User Story : Keyboard
 * a user can see which key makes which sound
