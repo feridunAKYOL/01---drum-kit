@@ -16,7 +16,8 @@
 * a user can understand which keys can be used
 
 ## 3. User Story: Interactive page
-__when a user press the will make a sound. __
+
+__when a user press the will make a sound.__
 
 ### Listener:
 * Add a `keyup` event listener to the document object.
