@@ -1,45 +1,38 @@
-# Even of Odd: development strategy
+# Drum-Kit: development strategy
 
-Building this site one step at a time
+## 0. README
 
-## 0. Setup
+> * The aim of the project
+> * Screenshot will be added.
+> * Github account and names of group members
+> * wireframe of the project
 
-* `index.html` and folder structure with empty files
+## 1. Setup
 
-## 1. Data & Log
+> * Creaated boilerplate index.html
 
-* `data/strings.js` & `log.js`
+## 2. User Story : index.html 
+> * a user can see which key makes which sound
+> * a user can understand which keys can be used
 
-## 2. Init 
+## 3. User Story: Interactive page
+__when a user press the will make a sound. __
+
+### Listener:
+> * Add a `keyup` event listener to the document object.
+
+### Handler:
+> * create a `play` event handler that if the user press the right key then play the sound.
+> * each time play the sound from begining.
 
 
 
-## 3. User Story: ___
+## 4. User Story: CSS
 
-* A user can reset stat & see a cleared User Interface
-* I wrote the code in `listeners/reset.js` & `handlers/reset.js`
-* The handler function resets the `strings` object to it's initial values (the values in the source code), and re-renders the same UI as `init.js`.  in `listeners/reset.js` the handler is connected to the UI with a `click` event.
+> * Add a background image.
+> * create styles for the key
 
-## 4. User Story: ___
+## 5. User Story: Animate Keys
+__when a key is pressed then animate the key__ 
 
-> * which user story makes sense to code first?
-> * which files of code do you need to change?
-> * what are you changing in them?
 
-## 5. User Story: ___
-
-> * which user story makes sense to code first?
-> * which files of code do you need to change?
-> * what are you changing in them?
-
-## 6. User Story: ___
-
-> * which user story makes sense to code first?
-> * which files of code do you need to change?
-> * what are you changing in them?
-
-## 7. User Story: ___
-
-> * which user story makes sense to code first?
-> * which files of code do you need to change?
-> * what are you changing in them?
