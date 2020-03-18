@@ -5,7 +5,7 @@
 * The aim of the project
 * Screenshot will be added.
 * Github account and names of group members
-* wireframe of the project
+
 
 ## 1. Setup
 
@@ -14,6 +14,7 @@
 ## 2. User Story : index.html 
 * a user can see which key makes which sound
 * a user can understand which keys can be used
+![](https://raw.githubusercontent.com/feridunAKYOL/01---drum-kit/master/Screenshot%20from%202020-03-18%2021-35-04.png)
 
 ## 3. User Story: Interactive page
 
