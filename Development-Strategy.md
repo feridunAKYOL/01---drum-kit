@@ -2,8 +2,8 @@
 
 ## 0. README
 
-> * The aim of the project
-> * Screenshot will be added.
+>* The aim of the project
+>* Screenshot will be added.
 > * Github account and names of group members
 > * wireframe of the project
 
