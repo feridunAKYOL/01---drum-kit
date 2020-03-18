@@ -38,8 +38,14 @@ __when a user press the key, it will make a specific sound.__
 ## 5. User Story: Animate Keys
 __when a key is pressed then animate the key__ 
 
-### styles 
+### styles : 
 * when a key is pressed , its style will be changed
+### handler :
+* create a `removeTransition` handler to remove `class` when a key is released
+* update the `playHandler` to add another `class` when a key is pressed
+### Listener:
+* Add a `transitioned` listener to each element with a `class` and `removeTransition` handler
+
 
 
 
