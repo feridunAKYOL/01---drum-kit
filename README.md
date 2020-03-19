@@ -1,4 +1,4 @@
-# Project of app-theme
+# Project of Drum Kit
 ### TARGET
 In this project a static web page for rhythmic expression built with only HTML, CSS & JavaScript. This project uses .wav audio files and keypress events to turn the user's keyboard into a drum set.
 In this project:
