@@ -14,11 +14,34 @@ Our project is depends on [courses wesbos/javascript 30](https://courses.wesbos.
 - HTML5
 - CSS3
 
-### SUMMARY OF THE PROJECT
-In this projects we try to a project in a small group. It is diffucult in the beginning . Sharing tasks and creating a `development strategy` are diffucult. `transition` and `transforms` are new things for us. The project is based on a tutorial so we learn from tutorial. Finally we have a little idea over how we work in a group.`   
+## Notes
+
+Studying this project we learned about:
+
+* Dynamically setting classes
+* Using the `<audio>` tag and .wav assets
+* How the query selector can be used to easily interact with many elements
+* How milestones, labels & issues can help organize work ->
+  * user stories === milestones
+  * tasks === issues
+  * labels === what type of task it is
+
+We struggled with:
+
+* How to create the development strategy.  It was tricky to figure out that the `playHandler` can actually work without changing the `.played` class, once that was clear it was easier to create the _Keys Light Up_ user story.
+* We kept making mistakes with the `data-key` attributes and linking the wrong keys and sounds.
+* Merge Conflicts!  whoever invented these has no soul
+* Keeping track of all the branches and forks.  OMG, github is confusing
+* `transition` and `transforms` are new things for us. 
+
+These resources were very helpful:
+
+* [KeyBoard Event Values](https://css-tricks.com/snippets/javascript/javascript-keycodes/)
+* [gmlwjd9405/git-collaboration](https://github.com/gmlwjd9405/git-collaboration)
+* [GitHub Project Management](https://github.com/features/project-management)
 
 
 ### CONTACT
-for more information about us please go [Feridun Akyol](https://feridunakyol.github.io)   
+for more information about us please go [Feridun Akyol](https://feridunakyol.github.io)
 [Ayse Akyol](https://ayseakyol.github.io/)
 
