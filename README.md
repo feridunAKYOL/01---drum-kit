@@ -6,7 +6,8 @@ In this project:
 * We did this project as a group. One is project manager. we did this page in one repository. we share our tasks and then collaborate. this is also important for the real job life.   
 #### INSPIRATION
 Our project is depends on [courses wesbos/javascript 30](https://courses.wesbos.com/account/access/5e6d32baabb2b01ab6abee86/view/194130650) 
-#### SCREENSHOT
+
+##### Try the live demo right [here](https://feridunakyol.github.io/drum-kit/) , it looks something like this:
 ![](https://raw.githubusercontent.com/feridunAKYOL/drum-kit/master/screenshots/Screenshot%20Drum%20Kit.png)
 
 ### TECHNOLOGIES
